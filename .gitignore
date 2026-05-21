@@ -1,0 +1,8 @@
+slprj/
+simulink-agentic-toolkit/
+submission_pack/scratch/
+*.bak
+*_Copy.slx
+*.autosave
+*.asv
+*.slxc
